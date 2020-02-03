@@ -2,24 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7637a25b-8529-47e6-99a1-a61dc955ba62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conversations/migrations/0002_auto_20200123_1130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/migrations/0002_auto_20200123_1130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/penta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/penta_quCvzAQ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservations/migrations/0002_auto_20200123_1130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviews/migrations/0002_auto_20200123_1130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/migrations/0006_auto_20200123_1103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/migrations/0007_auto_20200123_1130.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/migrations/0008_auto_20200128_0916.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conversations/migrations/0003_auto_20200203_1530.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists/migrations/0003_auto_20200203_1524.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rooms/migrations/0009_auto_20200203_1651.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0002_auto_20200203_1651.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversations/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversations/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conversations/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/conversations/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/penta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/penta_quCvzAQ.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reservations/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/reservations/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reservations/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/reservations/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviews/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/reviews/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reviews/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/reviews/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rooms/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579672258347</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="..">
+      <created>1580199453393</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580199453393</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,10 +151,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579742940170" />
-    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1579672257006">
+    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1580199452105">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579672257006" />
+    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580199452105" />
     <state x="2360" y="235" key="DiffContextDialog" timestamp="1579056054973">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -164,15 +171,15 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2727" y="437" key="VCS.ChangelistChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579220925616" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579672260511">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580199457594">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579672260511" />
-    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1580169432692">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580199457594" />
+    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1580720247989">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579053530013" />
-    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580169432692" />
+    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580720247989" />
     <state x="2732" y="126" width="672" height="678" key="search.everywhere.popup" timestamp="1579226754777">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
