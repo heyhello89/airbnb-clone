@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7637a25b-8529-47e6-99a1-a61dc955ba62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lists/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists/management/commands/seed_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/photos_seed.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservations/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservations/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservations/management/commands/seed_reservations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviews/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviews/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reviews/management/commands/seed_reviews.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/management/commands/seed_amenities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/management/commands/seed_facilities.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rooms/management/commands/seed_rooms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/management/commands/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/management/commands/seed_users.py" afterDir="false" />
+    <list default="true" id="7637a25b-8529-47e6-99a1-a61dc955ba62" name="Default Changelist" comment="..">
+      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/rooms/room_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reservations/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/reservations/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rooms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -54,18 +39,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/reservations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\airbnb-clone\templates" />
       <recent name="F:\airbnb-clone\reservations" />
       <recent name="F:\airbnb-clone\lists" />
       <recent name="F:\airbnb-clone\reviews" />
       <recent name="F:\airbnb-clone\uploads\room_photos" />
-      <recent name="F:\airbnb-clone" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\airbnb-clone\templates\rooms" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -154,7 +143,28 @@
       <option name="project" value="LOCAL" />
       <updated>1580720640021</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="..">
+      <created>1580806612285</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1580806612285</updated>
+    </task>
+    <task id="LOCAL-00011" summary="..">
+      <created>1580806692326</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1580806692326</updated>
+    </task>
+    <task id="LOCAL-00012" summary="..">
+      <created>1580806708084</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580806708084</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,14 +181,14 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2632" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579061625230" />
-    <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579742940170">
+    <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581984545158">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579742940170" />
-    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1580806697654">
+    <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581984545158" />
+    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1580883256093">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580806697654" />
+    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580883256093" />
     <state x="2360" y="235" key="DiffContextDialog" timestamp="1579056054973">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -187,23 +197,27 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2659" y="275" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579054737310" />
-    <state x="2381" y="162" key="SettingsEditor" timestamp="1580780584291">
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1581403661816">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="162" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580780584291" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1581403661816" />
     <state x="2727" y="437" key="VCS.ChangelistChooser" timestamp="1579220925616">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2727" y="437" key="VCS.ChangelistChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579220925616" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580806613734">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1580806709361">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580806613734" />
-    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1580720247989">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580806709361" />
+    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1582016235971">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1579053530013" />
-    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580720247989" />
+    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582016235971" />
+    <state x="2684" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580883262429">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2684" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1580883262429" />
     <state x="2732" y="126" width="672" height="678" key="search.everywhere.popup" timestamp="1579226754777">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
