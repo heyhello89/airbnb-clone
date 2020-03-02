@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7637a25b-8529-47e6-99a1-a61dc955ba62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/rooms/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/rooms/room_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/rooms/search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rooms/room_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rooms/room_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/rooms/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rooms/search.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582016354615</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="..">
+      <created>1583126474365</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583126474365</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,10 +192,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583123086635" />
-    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1582016353237">
+    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1583126472791">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582016353237" />
+    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583126472791" />
     <state x="2360" y="235" key="DiffContextDialog" timestamp="1579056054973">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -215,10 +212,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2727" y="437" key="VCS.ChangelistChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579220925616" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1582016364965">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583126476012">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582016364965" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583126476012" />
     <state x="2420" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583123233537">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
