@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7637a25b-8529-47e6-99a1-a61dc955ba62" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rooms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/rooms/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/rooms/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/rooms/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../djangoS3Test" />
+    <property name="last_opened_file_path" value="F:/merge" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -193,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583224808642</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="..">
+      <created>1583485101655</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1583485101655</updated>
+    </task>
+    <task id="LOCAL-00019" summary="..">
+      <created>1583485131964</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1583485131964</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -214,18 +227,20 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="246" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583123086635" />
-    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1583485100346">
+    <state x="2529" y="114" key="CommitChangelistDialog2" timestamp="1583485130704">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583485100346" />
+    <state x="2529" y="114" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583485130704" />
     <state x="2360" y="235" key="DiffContextDialog" timestamp="1579056054973">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="235" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579056054973" />
-    <state x="2659" y="275" key="FileChooserDialogImpl" timestamp="1582182665888">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="493" y="180" key="FileChooserDialogImpl" timestamp="1583899252383">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583899252383" />
     <state x="2659" y="275" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1582182665888" />
+    <state x="493" y="180" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583740104987" />
     <state x="2381" y="162" key="SettingsEditor" timestamp="1581403661816">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -234,16 +249,16 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2727" y="437" key="VCS.ChangelistChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579220925616" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583485103249">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1583485134509">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583485103249" />
-    <state x="333" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1583474654642">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583485134509" />
+    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583985805824">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1583474654642" />
-    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583396684573" />
-    <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1582605588956" />
+    <state x="2420" y="252" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1583985805824" />
+    <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1583740096728" />
     <state x="2684" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583195559781">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
